@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AweSimple", "AweSimple\AweSimple.csproj", "{F56347C5-E709-43A0-8BBC-77E0688EA158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AweStream", "AweStream\AweStream.csproj", "{DCD3EAC8-9138-4B75-8902-36DE2F97CBF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56347C5-E709-43A0-8BBC-77E0688EA158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56347C5-E709-43A0-8BBC-77E0688EA158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56347C5-E709-43A0-8BBC-77E0688EA158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56347C5-E709-43A0-8BBC-77E0688EA158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD3EAC8-9138-4B75-8902-36DE2F97CBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD3EAC8-9138-4B75-8902-36DE2F97CBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD3EAC8-9138-4B75-8902-36DE2F97CBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD3EAC8-9138-4B75-8902-36DE2F97CBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02A8305-8122-45FF-AA02-48B7A0BD861E}
+	EndGlobalSection
+EndGlobal
